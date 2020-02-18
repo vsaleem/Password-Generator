@@ -78,7 +78,6 @@ function getRandomSymbol() {
 }
 
 
- 
 
 
 // // generate random password options
